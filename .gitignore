@@ -2,6 +2,6 @@
 CMakeFiles/
 Makefile
 bin/
-.build/
+build/
 cmake_install.cmake
 data/
